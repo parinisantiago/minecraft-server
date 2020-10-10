@@ -2271,6 +2271,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-05-28 01:30:34 +0000",
+      "cooked_mutton": "2020-10-10 00:39:02 +0000",
       "cooked_beef": "2020-05-25 02:41:54 +0000",
       "chorus_fruit": "2020-06-03 02:29:01 +0000",
       "apple": "2020-05-22 01:57:51 +0000",
@@ -3786,5 +3787,5 @@
     },
     "done": true
   },
-  "DataVersion": 2554
+  "DataVersion": 2580
 }
