@@ -1,100 +1,91 @@
-[00:15:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:15:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:15:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:15:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:15:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:15:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:15:54] [main/INFO]: Reloading ResourceManager: Default
-[00:15:55] [Worker-Main-2/INFO]: Loaded 7 recipes
-[00:15:56] [Worker-Main-2/INFO]: Loaded 927 advancements
-[00:15:59] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[00:15:59] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[00:15:59] [Server thread/INFO]: Loading properties
-[00:15:59] [Server thread/INFO]: Default game type: SURVIVAL
-[00:15:59] [Server thread/INFO]: Generating keypair
-[00:16:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:16:00] [Server thread/INFO]: Using epoll channel type
-[00:16:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:16:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:16:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:16:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:16:00] [Server thread/INFO]: Preparing level "world"
-[00:16:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:06] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:16:07] [Server thread/INFO]: Preparing spawn area: 43%
-[00:16:07] [Server thread/INFO]: Preparing spawn area: 43%
-[00:16:08] [Server thread/INFO]: Time elapsed: 7598 ms
-[00:16:08] [Server thread/INFO]: Done (7.830s)! For help, type "help"
-[00:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[00:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
-[00:18:48] [Server thread/INFO]: Cheloo[/186.123.51.180:65270] logged in with entity id 319 at (-155.7900439440346, 71.0, -142.21524850917447)
-[00:18:48] [Server thread/INFO]: Cheloo joined the game
-[00:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[00:19:00] [Server thread/WARN]: Ignored advancement 'minecraft:husbandry/break_diamond_hoe' in progress file ./world/advancements/d9282b8b-d370-307d-bc5b-d5ae71a88d0a.json - it doesn't exist anymore?
-[00:19:00] [Server thread/INFO]: Euge1234[/181.169.239.175:61640] logged in with entity id 353 at (-148.70000002533197, 71.0000002, -111.70000002533197)
-[00:19:00] [Server thread/INFO]: Euge1234 joined the game
-[00:19:00] [Server thread/INFO]: Euge1234 has completed the challenge [Serious Dedication]
-[00:21:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[00:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
-[00:29:48] [Server thread/INFO]: Euge1234 has made the advancement [Best Friends Forever]
-[00:39:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-145, y=54, z=-115} fx{x=-146, y=53, z=-115}
-[00:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
-[00:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
-[00:58:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-179, y=52, z=-20} fx{x=-178, y=52, z=-19}
-[00:58:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-179, y=52, z=-20} fx{x=-178, y=52, z=-19}
-[01:03:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-204, y=69, z=-50} fx{x=-204, y=66, z=-49}
-[01:06:22] [Server thread/WARN]: Wrong location! (-8, -30) should be (-9, -30), bei['Zombified Piglin'/8256, l='ServerLevel[world]', x=-127.92, y=50.35, z=-471.54]
-[01:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
-[01:28:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-298, y=77, z=-358} fx{x=-299, y=77, z=-358}
-[01:35:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-282, y=80, z=-357} fx{x=-280, y=83, z=-354}
-[01:38:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-293, y=58, z=-355} fx{x=-293, y=60, z=-354}
-[01:38:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-293, y=58, z=-355} fx{x=-293, y=60, z=-354}
-[01:53:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-234, y=67, z=-348} fx{x=-220, y=65, z=-325}
-[01:54:10] [Server thread/WARN]: Wrong location! (2, -29) should be (2, -30), bei['Zombified Piglin'/18878, l='ServerLevel[world]', x=45.48, y=46.35, z=-463.93]
-[02:02:15] [Server thread/INFO]: Euge1234 lost connection: Disconnected
-[02:02:15] [Server thread/INFO]: Euge1234 left the game
-[02:03:54] [Server thread/INFO]: Made Bob a server operator
-[02:04:07] [Server thread/INFO]: Made Cheloo a server operator
-[02:04:20] [Server thread/INFO]: [Cheloo: Set own game mode to Creative Mode]
-[02:05:24] [Server thread/INFO]: Euge1234[/181.169.239.175:61962] logged in with entity id 21026 at (127.30148211675225, 26.08422317426624, -159.25472596245092)
-[02:05:24] [Server thread/INFO]: Euge1234 joined the game
-[02:05:24] [Server thread/INFO]: [Cheloo: Teleported Euge1234 to Cheloo]
-[02:05:52] [Server thread/INFO]: [Cheloo: Set own game mode to Survival Mode]
-[02:06:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=60, y=56, z=-235} fx{x=62, y=55, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:06:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=63, y=55, z=-235} fx{x=61, y=56, z=-235}
-[02:10:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-111, y=53, z=-216} fx{x=-112, y=52, z=-216}
-[02:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
-[02:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9471ms or 189 ticks behind
-[02:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[02:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33831ms or 676 ticks behind
-[02:18:11] [Server thread/WARN]: Cheloo moved too quickly! 0.07681504380873605,0.0,10.141738061595817
-[02:18:11] [Server thread/WARN]: Euge1234 moved too quickly! -0.07251525738669429,0.0,10.145383161948729
-[02:18:13] [Server thread/WARN]: Euge1234 moved too quickly! -0.5091120421403765,-10.486824793353964,-0.1624288985287876
-[02:18:14] [Server thread/INFO]: Euge1234 lost connection: Disconnected
-[02:18:14] [Server thread/INFO]: Euge1234 left the game
-[02:18:18] [Server Watchdog/FATAL]: A single server tick took 60.01 seconds (should be max 0.05)
-[02:18:18] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[02:18:19] [Server Watchdog/ERROR]: This crash report has been saved to: /home/ec2-user/minecraft-server/./crash-reports/crash-2020-10-10_02.18.19-server.txt
-[02:18:20] [Server thread/INFO]: Stopping server
-[02:18:20] [Server thread/INFO]: Saving players
-[02:18:20] [Server thread/INFO]: Cheloo lost connection: Internal Exception: java.lang.StackOverflowError
-[02:18:20] [Server thread/INFO]: Cheloo left the game
-[02:18:21] [Server thread/INFO]: Saving worlds
-[02:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:16:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:16:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:16:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:16:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:16:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:16:34] [main/INFO]: Reloading ResourceManager: Default
+[02:16:36] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:16:37] [Worker-Main-2/INFO]: Loaded 927 advancements
+[02:16:40] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[02:16:40] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[02:16:40] [Server thread/INFO]: Loading properties
+[02:16:40] [Server thread/INFO]: Default game type: SURVIVAL
+[02:16:40] [Server thread/INFO]: Generating keypair
+[02:16:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:16:41] [Server thread/INFO]: Using epoll channel type
+[02:16:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:16:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:16:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:16:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:16:41] [Server thread/INFO]: Preparing level "world"
+[02:16:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:46] [Server thread/INFO]: Preparing spawn area: 55%
+[02:16:47] [Server thread/INFO]: Time elapsed: 6122 ms
+[02:16:47] [Server thread/INFO]: Done (6.353s)! For help, type "help"
+[02:16:50] [Server thread/INFO]: Cheloo[/186.123.51.180:17754] logged in with entity id 309 at (-11.361035981031604, 45.0, -109.02103722437454)
+[02:16:50] [Server thread/INFO]: Cheloo joined the game
+[02:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[02:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18248ms or 364 ticks behind
+[02:18:34] [Server thread/INFO]: [Cheloo: Set own game mode to Spectator Mode]
+[02:18:55] [Server thread/INFO]: [Cheloo: Set own game mode to Survival Mode]
+[02:19:28] [Server thread/INFO]: Euge1234[/181.169.239.175:52862] logged in with entity id 689 at (-11.032483639142484, 29.255977221587433, -167.90500475803603)
+[02:19:28] [Server thread/INFO]: Euge1234 joined the game
+[02:19:33] [Server thread/INFO]: [Cheloo: Set Euge1234's game mode to Spectator Mode]
+[02:19:48] [Server thread/INFO]: [Cheloo: Set Euge1234's game mode to Creative Mode]
+[02:20:22] [Server thread/INFO]: <Euge1234> gamerule
+[02:20:42] [Server thread/INFO]: Made Euge1234 a server operator
+[02:20:48] [Server thread/INFO]: [Euge1234: Set own game mode to Survival Mode]
+[02:20:56] [Server thread/INFO]: [Euge1234: Gamerule keepInventory is now set to: true]
+[02:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[02:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02:24:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-132, y=68, z=-291} fx{x=-132, y=67, z=-292}
+[02:57:49] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7843, l='ServerLevel[world]', x=-161.83, y=72.00, z=-166.14]
+[02:57:49] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/7843, l='ServerLevel[world]', x=-161.83, y=72.00, z=-166.14]
+[03:07:49] [Server thread/INFO]: Villager bfg['Librarian'/238, l='ServerLevel[world]', x=-147.66, y=77.00, z=-155.70] died, message: 'Librarian was slain by Zombie'
+[03:44:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-142, y=60, z=-131} fx{x=-142, y=60, z=-132}
+[04:01:25] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/17708, l='ServerLevel[world]', x=-163.46, y=72.00, z=-167.17]
+[04:01:25] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/17708, l='ServerLevel[world]', x=-163.46, y=72.00, z=-167.17]
+[04:05:25] [Server thread/INFO]: Euge1234 lost connection: Disconnected
+[04:05:25] [Server thread/INFO]: Euge1234 left the game
+[04:13:35] [Server thread/INFO]: [Cheloo: Set own game mode to Creative Mode]
+[04:17:19] [Server thread/INFO]: [Cheloo: Set own game mode to Survival Mode]
+[04:18:51] [Server thread/INFO]: [Cheloo: Set own game mode to Creative Mode]
+[04:23:10] [Server thread/INFO]: [Cheloo: Set own game mode to Survival Mode]
+[04:23:20] [Server thread/INFO]: Cheloo lost connection: Disconnected
+[04:23:20] [Server thread/INFO]: Cheloo left the game
+[06:34:51] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Error de entrada/salida
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_265]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_265]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_265]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_265]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_265]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_265]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_265]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_265]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_265]
+	at zg$1.run(SourceFile:89) [server.jar:?]
+[06:34:51] [Server thread/INFO]: Stopping server
+[06:34:51] [Server thread/INFO]: Saving players
+[06:34:51] [Server thread/INFO]: Saving worlds
+[06:34:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:34:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:34:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
